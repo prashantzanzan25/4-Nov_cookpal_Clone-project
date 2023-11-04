@@ -11,7 +11,7 @@ p,
 ul,
 li {
     margin: 0;
-    padding: 0;
+    padding: 0; 
 }
 
 ul,
@@ -178,7 +178,7 @@ input[type="text"] {
 
 /* Search bar styles */
 .search1 {
-    background-color: #fff;
+    background-color: #ffffffbd;
     padding-top: 20px;
     display: flex;
     justify-content: space-between;
@@ -200,19 +200,19 @@ input[type="text"] {
 }
 
 #AllRecipes {
-    background-color: #eaaa00;
+    background-color: #cc8417;
     height: 7vh;
     font-size: larger;
 }
 
 #VegRecipes {
-    background-color: #c4d600;
+    background-color: #2ee216;
     height: 7vh;
     font-size: larger;
 }
 
 #NonVegRecipes {
-    background-color: #dc582a;
+    background-color: #fa0606;
     height: 7vh;
     font-size: larger;
 }
