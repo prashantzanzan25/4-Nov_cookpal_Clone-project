@@ -346,7 +346,7 @@ main {
 }
 
 .like-button.active {
-    background-color: #FFD700;
+    background-color: #006eff;
     /* Golden yellow color for active like button */
 }
 
