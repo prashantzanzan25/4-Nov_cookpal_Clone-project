@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             "name": "Paneer Tikka",
-            "imageSrc": "https://source.unsplash.com/random?paneerTikka",
+            "imageSrc": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fwp-content%2Fuploads%2F2022%2F06%2Fpaneer-tikka-recipe.jpg.webp&tbnid=pGmDjhim6pTU1M&vet=12ahUKEwi4s6rM8aqCAxUQ2zgGHez-AOQQMygZegUIARC-AQ..i&imgrefurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fpaneer-tikka-on-stove-top%2F&docid=uApb24Ee_42cQM&w=1200&h=1800&q=paneer%20tikka&ved=2ahUKEwi4s6rM8aqCAxUQ2zgGHez-AOQQMygZegUIARC-AQ",
             "time": "25 min",
             "type": "veg",
             "isLiked": false,
