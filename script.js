@@ -28,26 +28,26 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "name": "Steak",
             "imageSrc": "https://source.unsplash.com/random?steak",
-            "time": "40 min",
+            "time": "68 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 4.7
         },
         {
             "name": "Grilled Salmon",
             "imageSrc": "https://source.unsplash.com/random?salmon",
-            "time": "40 min",
+            "time": "53 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 4.9
         },
         {
             "name": "Tomato Pasta",
             "imageSrc": "https://source.unsplash.com/random?pasta",
-            "time": "40 min",
+            "time": "30 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 4.6
         },
         {
             "name": "Vegan Salad",
@@ -60,66 +60,66 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "name": "Fried Chicken",
             "imageSrc": "https://source.unsplash.com/random?friedChicken",
-            "time": "40 min",
+            "time": "46 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 4.8
         },
         {
             "name": "Mushroom Risotto",
             "imageSrc": "https://source.unsplash.com/random?risotto",
-            "time": "40 min",
+            "time": "44 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 4.7
         },
         {
             "name": "Burger",
             "imageSrc": "https://source.unsplash.com/random?burger",
-            "time": "40 min",
+            "time": "34 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 3.8
         },
         {
             "name": "Paneer Tikka",
             "imageSrc": "https://source.unsplash.com/random?paneerTikka",
-            "time": "40 min",
+            "time": "25 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 3.8
         },
         {
             "name": "BBQ Ribs",
             "imageSrc": "https://source.unsplash.com/random?ribs",
-            "time": "40 min",
+            "time": "48 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 4.8
         },
         {
             "name": "Caesar Salad",
             "imageSrc": "https://source.unsplash.com/random?caesarSalad",
-            "time": "40 min",
+            "time": "30 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 3.9
         },
         {
             "name": "Fish Tacos",
             "imageSrc": "https://source.unsplash.com/random?fishTacos",
-            "time": "40 min",
+            "time": "42 min",
             "type": "non-veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 4.2
         },
         {
             "name": "Chocolate Cake",
             "imageSrc": "https://source.unsplash.com/random?chocolateCake",
-            "time": "40 min",
+            "time": "35 min",
             "type": "veg",
             "isLiked": false,
-            "rating": 4.5
+            "rating": 3.6
         }
     ];
 
